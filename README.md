@@ -1,3 +1,44 @@
+HW4 from ITCS-3155, Mr. Ilson's class
+
+--DragonDragoon
+
+Autograder:
+```
+Your submission was recorded at 2015-12-08 08:51:19 +0000 : submission is on time.
+Score: 100.0/100.0
+----------------------------------------
+Running student tests found in features/ spec/:
+  Cucumber: 9 out of 9 scenarios passed
+  RSpec: 4 out of 4 tests passed
+  Score: 40/40
+----------------------------------------
+
+----------------------------------------
+Checking coverage for:
+  controllers >= 90.00%
+  models >= 90.00%
+----------------------------------------
+  all files: 100.00%% coverage
+  controllers: 100.00%% coverage
+  models: 100.00%% coverage
+  mailers: 100.00%% coverage
+  helpers: 100.00%% coverage
+  libraries: 100.00%% coverage
+
+Passed coverage test.
+  Score: 20.0/20.0
+----------------------------------------
+
+----------------------------------------
+Running reference Cucumber scenarios:
+  3 out of 3 scenarios passed
+  Score: 40/40
+----------------------------------------
+Total score: 100.0 / 100.0
+Completed in 21.16804442 seconds.
+```
+
+
 BDD, TDD Cycle
 ===
 
