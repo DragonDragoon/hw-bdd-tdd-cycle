@@ -1,6 +1,10 @@
-HW4 from ITCS-3155, Mr. Ilson's class
+BDD-TDD Cycle (RottenPotatoes)
+=======
 
---DragonDragoon
+by William Woodard
+-------
+
+HW4 from ITCS-3155, Mr. Ilson's class
 
 Autograder:
 ```
